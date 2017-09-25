@@ -1,0 +1,28 @@
+url: https://www.hinsaengnakorn.co.th
+
+# Site settings
+title: Hin Saeng Nakorn Co., Ltd
+email: info@hinsaengnakorn.co.th
+description: "Supplier of Natural Stone and exporter of Showstones"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/hinsaengnakorn
+  - title: facebook
+    url: https://www.facebook.com/HinSaengNakorn
+  - title: instagram
+    url: http://instagram.com/hinsaengnakorn
+  - title: google-plus 
+    url: https://plus.google.com/106071668911539385984?hl=en
+  - title: linkedin
+    url: http:/linkedin.com/hinsaengnakorn
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 224/4, 1-2 Floor, Victoria Building, Muang Thong Thani 3 Bondstreet Rd
+  - line: Bangpood, Pakkret Nonthaburi 11120 Thailand
+
+name: Hin Saeng Nakorn Co., Ltd
+markdown: kramdown
+permalink: /:title
